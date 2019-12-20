@@ -1,0 +1,12 @@
+[submodule "docfx_project/git-submodules/git-submodules/ziti-sdk-c"]
+	path = docfx_project/git-submodules/git-submodules/ziti-sdk-c
+	url = https://github.com/netfoundry/ziti-sdk-c
+[submodule "docfx_project/git-submodules/ziti-sdk-c"]
+	path = docfx_project/git-submodules/ziti-sdk-c
+	url = https://github.com/netfoundry/ziti-sdk-c
+[submodule "docfx_project/git-submodules/ziti-sdk-csharp"]
+	path = docfx_project/git-submodules/ziti-sdk-csharp
+	url = https://github.com/netfoundry/ziti-sdk-csharp
+[submodule "docfx_project/git-submodules/ziti-cmd"]
+	path = docfx_project/git-submodules/ziti-cmd
+	url = https://github.com/netfoundry/ziti-cmd
