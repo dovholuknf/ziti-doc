@@ -6,4 +6,3 @@
 	url = https://github.com/netfoundry/ziti-cmd
 [submodule "docfx_project/ziti-sdk-c"]
 	path = docfx_project/ziti-sdk-c
-	url = https://github.com/netfoundry/ziti-cmd
